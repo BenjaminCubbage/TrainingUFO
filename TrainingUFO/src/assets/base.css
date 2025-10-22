@@ -1,0 +1,63 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0; 
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: var(--font-body);
+  color: var(--text);
+  background: var(--bg-l1);
+
+  font-size: 62.5%;
+}
+
+html, body { 
+  overflow-x: clip; 
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  color: inherit;
+  font-size: inherit;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+article {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+button:focus-visible {
+  outline: none;
+  position: relative;
+}
+
+button:focus-visible::after {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  border: 3px solid black;
+  border-radius: 4px;
+  pointer-events: none;
+  z-index: 100;
+}
+
+::selection {
+  background: var(--selection-bg);
+  color: white;
+}

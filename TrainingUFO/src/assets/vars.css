@@ -1,0 +1,62 @@
+:root {
+    --font-body: 'Raleway', sans-serif;
+    --font-heading: 'Rajdhani', 'Rajdhani Fallback', sans-serif;
+    --font-material-symbols-outlined: 'Material Symbols Outlined', 'Material Symbols Outlined Fallback', sans-serif;
+    --font-math: 'Libertinus Math', serif;
+
+    --bg-l0: hsl(225, 20%, 96%);
+    --bg-l1: hsl(240, 20%, 99%);
+    --bg-l2: white;
+
+    --primary-main: hsl(268, 97%, 65%);
+    --primary-lght: hsl(268, 97%, 75%);
+    --primary-dark: hsl(268, 97%, 55%);
+    --primary-back: hsl(291, 46%, 83%);
+
+    --secondary-main: hsl(43, 100%, 53%);
+    --secondary-lght: hsl(43, 100%, 63%);
+    --secondary-dark: hsl(43, 100%, 43%);
+    --secondary-back: hsl(43, 100%, 90%);
+    
+    --text: #000;
+    --text-light: hsl(230deg, 10%, 30%);
+    --text-lighter: hsl(230deg, 5%, 45%);
+    --text-lightest: hsl(230deg, 5%, 60%);
+    
+    --bg-contrast-l0: hsl(240, 20%, 22%);
+    --bg-contrast-l1: hsl(240, 13%, 30%);
+    --bg-contrast-l2: hsl(240, 10%, 39%);
+    --text-contrast: white;
+
+    --border: rgb(200, 202, 210);
+    --border-light: rgb(210, 212, 220);
+    --border-lightest: #dcdee6;
+
+    --border-contrast: hsl(240, 12%, 55%);
+    --border-contrast-light: hsl(240, 12%, 45%);
+    --border-contrast-lightest: hsl(240, 12%, 35%);
+    
+    --selection-bg: hsl(349, 75%, 67%);
+
+    --control-inset: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+    --control-inset-none: inset 0 2px 4px rgba(0, 0, 0, 0);
+
+    --control-outset: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --control-outset-none: 0 2px 4px rgba(0, 0, 0, 0);
+
+    --control-radius: 3px;
+    --control-padding-y: 10px;
+    --control-padding-x: 18px;
+    --control-padding: var(--control-padding-y) var(--control-padding-x);
+
+    --control-selection-active: hsl(208, 100%, 92%);
+    --control-selection-highlighted: hsl(208, 100%, 97%);
+
+    --text-content-minimum-horizontal-margins: 1rem;
+
+    --z-index-navbar:  1000;
+    --z-index-scrim:   10000;
+    --z-index-popover: 100000;
+
+    --main-padding-x-mob: 5px;
+}

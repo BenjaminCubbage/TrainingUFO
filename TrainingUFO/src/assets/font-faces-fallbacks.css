@@ -1,0 +1,274 @@
+@font-face {
+  font-family: "Material Symbols Outlined Fallback";
+  src: local("Arial");
+
+  /* Invisible fallback */
+  size-adjust: 0%;
+  ascent-override: 0%;
+  descent-override: 0%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Arial");
+  size-adjust: 91.0721%;
+  ascent-override: 102.1169%;
+  descent-override: 37.9919%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Helvetica Neue");
+  size-adjust: 90.2222%;
+  ascent-override: 103.0788%;
+  descent-override: 38.3498%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("Segoe UI");
+  size-adjust: 91.5736%;
+  ascent-override: 101.5577%;
+  descent-override: 37.7838%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Rajdhani Fallback";
+  src: local("BlinkMacSystemFont");
+  size-adjust: 97.4781%;
+  ascent-override: 95.4061%;
+  descent-override: 35.4952%;
+  line-gap-override: 0%;
+  font-style: normal;
+  font-weight: 700;
+}
