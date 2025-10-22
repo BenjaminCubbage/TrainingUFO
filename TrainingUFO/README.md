@@ -1,6 +1,6 @@
 # Training UFO
 
-# Built with VueJS + Vite
+Built with VueJS + Vite
 
 ## Project setup
 ```
