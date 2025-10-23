@@ -88,7 +88,7 @@
 
           <FDropdown 
             v-model="calculator.wireGauge" 
-            :options="NEC.WireGauges.ordered.filter(gauge => NEC.BaseWireAmpacities[this.calculator.conductorMaterial][this.calculator.installationMethod][gauge][this.calculator.insulationRating].value)" 
+            :options="NEC.WireGauges.ordered.filter(gauge => NEC.BaseWireAmpacities[calculator.conductorMaterial][calculator.installationMethod][gauge][calculator.insulationRating].value)" 
             label="Wire Size:" 
             fullWidth
             aria-label="Wire Size in AWG">

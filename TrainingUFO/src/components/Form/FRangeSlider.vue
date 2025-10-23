@@ -5,7 +5,6 @@
             type="range" 
             :min="rangeMin" 
             :max="rangeMax"
-            :value="inputValue"
             v-model.number="inputValue"
             :style="{'--min': rangeMin, '--max': rangeMax, '--value': inputValue}"
             v-bind="filterByKeyRegex($attrs, /^(id|name|tabindex|title|aria-)/i)" />
