@@ -1,12 +1,15 @@
 {
-  "routes": [
-    {
-      "route": "/",
-      "methods": [
-        "get"
-      ],
-      "rewrite": "/",
-      "redirect": "/"
-    }
-  ]
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/assets/*",
+      "/*.css",
+      "/*.js",
+      "/*.png",
+      "/*.jpg",
+      "/*.webp",
+      "/*.svg",
+      "/*.ico"
+    ]
+  }
 }
